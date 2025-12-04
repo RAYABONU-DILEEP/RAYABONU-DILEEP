@@ -1,16 +1,27 @@
-## Hi there 👋
+## Hi there 👋 
+I'am #Rayabonu Dileep, a passionate and dedicated developer who loves building meaningful and scalable solutions. I enjoy learning new technologies,exploring system design,and contributing to open-source projects.
+## 🚀 About Me 
+### ◾ currently working on:  Full stack development & problem-solving
+ 
+### ◾ currently learning:  Advanced java,spring Boot,REST APIs,SQL, and cloud fundamentals
+ 
+### ◾🤝 Looking to collabrate on:  open-source java projects, backend systems,and innovative web applications
+ 
+ ### ◾📬 How to reach me:
+####  ▫ Email:  dileeprayabonu@gmail.com
+ 
+#### ▫Linkedln: https://www.linkedin.com/in/rayabonu-dileep-8701b8398/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BCMeNGxFRSUe7uraIxxq28Q%3D%3D
+ 
+  ## 👨‍💻 Tech stack
+  
+ ### Languages:  Java,javascript,sQL
+  
+ ### Frameworks/Tools:   Spring Boot,Git & Github,HTML,css
+  
+ ### Databases:  MysQL
+  
+ ### Other Skills:   DSA,API design, version control
 
-<!--
-**RAYABONU-DILEEP/RAYABONU-DILEEP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  🎯 Fun Fact
+  
+  ✨ I believe consistent learning,even in small steps,creates big transformations
