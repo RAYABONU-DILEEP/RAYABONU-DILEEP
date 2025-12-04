@@ -6,7 +6,7 @@ I'am #Rayabonu Dileep, a passionate and dedicated developer who loves building m
  ### ◾🤝 Looking to collabrate on:  open-source java projects, backend systems,and innovative web applications
   ### ◾📬 How to reach me:
 ####  ▫ Email:  dileeprayabonu@gmail.com
- #### ▫Linkedln: https://www.linkedin.com/in/rayabonu-dileep-8701b8398/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BCMeNGxFRSUe7uraIxxq28Q%3D%3D
+ #### ▫Linkedln: https://www.linkedin.com/in/rayabonu-dileep/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B6MuanLTjRu2mJ23aR9AHqA%3D%3D
   ## 👨‍💻 Tech stack
    ### Languages:  Java,javascript,sQL
    ### Frameworks/Tools:   Spring Boot,Git & Github,HTML,css
